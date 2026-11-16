@@ -26,16 +26,13 @@ Algunos proyectos están pensados para ser más universales y útiles para cualq
 
 ## 🛠️ Proyectos
 
-<!-- PROJECTS:START -->
 | Proyecto | Qué hace |
 |:---|:---|
-| **[steam-screenshot-importer](https://github.com/Dreex14/steam-screenshot-importer)** | Import Switch, PS5 or emulator screenshots into Steam's screenshot library under any game name, then upload them from Steam's own manager. Windows app (English/Spanish). |
-| **[fluxio](https://github.com/Dreex14/fluxio)** | Descargador de vídeo, audio y GIF para Windows con interfaz moderna, recorte visual y editor de volumen. Basado en yt-dlp y FFmpeg. |
-| **[twitch-bonus-autoclaim](https://github.com/Dreex14/twitch-bonus-autoclaim)** | Chromium extension that auto-claims the Twitch channel points bonus chest. No telemetry, no network requests. |
-| **[recortador-multiple](https://github.com/Dreex14/recortador-multiple)** | Recorta una imagen manualmente y aplica el mismo recorte a todas las imágenes de la carpeta. Disponible en español e inglés. Existe una versión ejecutable (.exe) para Windows. |
-| **[Koperfield](https://github.com/Dreex14/Koperfield)** | Hide windows instantly on Windows with a keyboard shortcut. 100% local, no telemetry. |
-| **[screenshot-saver](https://github.com/Dreex14/screenshot-saver)** | Guarda automáticamente las imágenes del portapapeles de Windows 11 con nombres numéricos consecutivos. |
-<!-- PROJECTS:END -->
+| **[WindowsReborn](https://github.com/Dreex14/WindowsReborn)** | Formatea Windows sin miedo: copia de seguridad, restauración a la ruta original, instalador de programas, privacidad y optimizaciones con un clic. |
+| **[calendario-anime](https://github.com/Dreex14/calendario-anime)** | Calendario de emisiones de anime, directorio visual y lista de MyAnimeList para Windows 11, en español. |
+| **[Pasarela](https://github.com/Dreex14/Pasarela)** | Oír y ver tu consola (Switch 2, PS5...) desde una capturadora HDMI con mínima latencia. Solo audio en un clic, vídeo para jugar o compartir en Discord. Ligero, portátil y en español. |
+| **[my-games-backlog](https://github.com/Dreex14/my-games-backlog)** | Desktop app (Python + PyQt6) to manage your game backlog, with scores and playtimes from Steam, HowLongToBeat and Metacritic. |
+| **[steam-screenshot-importer](https://github.com/Dreex14/steam-screenshot-importer)** | Import Switch, PS5 or emulator screenshots into Steam's screenshot library under any game name, then upload them from Steam's own manager. Windows app (English/Español). |
 
 ## 📈 Actividad
 
